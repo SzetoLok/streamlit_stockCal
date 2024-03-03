@@ -36,5 +36,5 @@ stock.buy(3000, 1000);
 stock.sell(700);
 console.log();
 console.log();console.log();
-console.log();
 console.log(1);
+console.log(10);
